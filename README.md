@@ -140,16 +140,22 @@ Business Intelligence
 financial-analysis-powerbi-dashboard/
 │
 ├── README.md
+
 │
 ├── Finance Analysis.pdf
+
 │
 ├── customers.xlsx
+
 │
 ├── finance_transactions.xlsx
+
 │
 ├── fin das 2.png
+
 │
 └── fin dash.png
+https://github.com/gauravv755500-hue/Finance-Analysis/blob/main/fin%20dash.png
 
 📷 Dashboard Preview
 🚀 Key Learning Outcomes
